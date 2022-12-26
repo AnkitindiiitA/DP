@@ -1,0 +1,13 @@
+Question Links Below To Practice:-
+
+lect 05: 01 Knapsack Top Down DP
+    https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+lect 06: doesn't contain any question
+lect 07: Subset Sum Problem
+    https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+lect 08: Equal Sum Partition Problem
+    https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
+** lect 09: Count of Subsets Sum with a Given Sum
+    https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1
+lect 10: Minimum Subset Sum Difference
+    https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
