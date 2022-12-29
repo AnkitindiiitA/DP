@@ -19,3 +19,6 @@ https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1?utm_sour
 
 lect 11: Count the number of subset with a given difference
 https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628?leftPanelTab=1
+
+lect 12: Target sum
+https://leetcode.com/problems/target-sum/
