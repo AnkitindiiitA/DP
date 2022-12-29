@@ -25,3 +25,6 @@ https://leetcode.com/problems/target-sum/
 
 lect 13: Unbounded Knapsack
 https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+lect 14: Rod Cutting Problem
+https://practice.geeksforgeeks.org/problems/rod-cutting0840/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
