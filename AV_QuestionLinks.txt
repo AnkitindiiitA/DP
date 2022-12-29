@@ -31,3 +31,13 @@ https://practice.geeksforgeeks.org/problems/rod-cutting0840/1?utm_source=gfg&utm
 
 lect 15: Coin change problem: Maximum number of ways
 https://practice.geeksforgeeks.org/problems/coin-change2448/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+lect 16: Coin change problem: Minimum number of coins
+https://leetcode.com/problems/coin-change/
+
+lect 17: reason to take INT_MAX-1;
+
+lect 19: Longest common subsequence Recursive;
+lect 20: Longest common subsequence Memoization;
+lect 21: Longest common subsequence Top down DP;
+https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
