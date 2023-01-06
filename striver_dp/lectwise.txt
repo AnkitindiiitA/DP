@@ -2,3 +2,5 @@ DP 1. Introduction to Dynamic Programming | Memoization | Tabulation | Space Opt
 https://leetcode.com/problems/fibonacci-number/submissions/872727812/
 DP 2. Climbing Stairs | Learn How to Write 1D Recurrence Relations
 https://www.codingninjas.com/codestudio/problems/count-ways-to-reach-nth-stairs_798650?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
+DP 3. Frog Jump | Dynamic Programming | Learn to write 1D DP
+https://www.codingninjas.com/codestudio/problems/frog-jump_3621012?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=1
