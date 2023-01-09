@@ -7,3 +7,5 @@ https://www.codingninjas.com/codestudio/problems/frog-jump_3621012?source=youtub
 DP 4. Frog Jump with K Distance | Lecture 3 Follow Up Question
 https://atcoder.jp/contests/dp/tasks/dp_b
 https://atcoder.jp/contests/dp/submissions/37900011
+DP 5. Maximum Sum of Non-Adjacent Elements | House Robber | 1-D | DP on Subsequences
+https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
