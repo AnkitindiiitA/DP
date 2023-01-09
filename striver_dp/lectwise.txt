@@ -6,3 +6,4 @@ DP 3. Frog Jump | Dynamic Programming | Learn to write 1D DP
 https://www.codingninjas.com/codestudio/problems/frog-jump_3621012?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=1
 DP 4. Frog Jump with K Distance | Lecture 3 Follow Up Question
 https://atcoder.jp/contests/dp/tasks/dp_b
+https://atcoder.jp/contests/dp/submissions/37900011
